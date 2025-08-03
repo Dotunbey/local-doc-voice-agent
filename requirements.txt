@@ -1,0 +1,6 @@
+streamlit
+fastembed
+qdrant-client
+firecrawl
+edge-tts
+aiofiles
